@@ -1,0 +1,7 @@
+lz4
+capstone
+pillow
+fonttools
+pyyaml
+backports.zstd; python_version < "3.14"
+pycryptodome
